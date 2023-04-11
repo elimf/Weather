@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.expo
+
+# build output
+/ios/build
+/android/build
+.web-build
+
+# IDE files
+*.swp
+*.swo
+.DS_Store
+.idea
+.vscode
+
+# misc
+*.log
+*.bak
+*.tmp
